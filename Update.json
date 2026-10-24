@@ -1,8 +1,9 @@
 {
   "latestVersion": "1.1.0",
-  "fullScreenUpdate": false,
+  "fullScreenUpdate": true,
   "mandatory": false,
   "mandatorySecurity": false,
+  "clearSecurityLockUpTo": "1.1.0",
   "downloads": {
     "windows": "https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.exe",
     "mac": "https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.dmg"
