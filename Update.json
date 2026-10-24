@@ -1,4 +1,8 @@
-LatestVersion[1.1]
-DownloadOfLatestWin[https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.exe]
-DownloadOfLatestWin[https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.dmg]
-RequiredFullScreenUpdate[No]
+{
+  "latestVersion": "1.1.0",
+  "fullScreenUpdate": false,
+  "downloads": {
+    "windows": "https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.exe",
+    "mac": "https://kept-kelve.github.io/Origin-Studio/downloads/OriginStudio-Setup-1.1.dmg"
+  }
+}
