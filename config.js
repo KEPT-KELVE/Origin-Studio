@@ -1,0 +1,1 @@
+window.ORIGIN_GITHUB = { username: "YOUR_GITHUB_USERNAME", repository: "YOUR_REPOSITORY" };\n

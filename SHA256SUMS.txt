@@ -1,4 +1,0 @@
-54cb1c7b5b38913f776a89a38f3258e40b183a464d07ff326a926908925152b1  downloads/OriginStudio-1.1.exe
-13c55f8936b9453fc32f63105ba456734725b925e221915a39b5814aefe28fe0  downloads/OriginStudio-README.md
-003b73b1b91321d507e5f77d8b87741ac26204e7833adb581188f49ea0f0adf7  downloads/OriginStudio-Setup-1.1.exe
-6f4b2a3b8774c9ceafc10fe938ddf42b236cc9340bca994467d3ccf7e5a1847a  downloads/OriginStudio-Source.zip
